@@ -2,7 +2,7 @@ dslist:
   db:
     db1:
       ip: 192.168.1.1
-      dbName: first1
+      dbName: first2
     db2:
       ip: 192.168.1.2
       dbName: second
