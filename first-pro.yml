@@ -1,0 +1,8 @@
+dsList:
+  db:
+    db1:
+      ip: 192.168.1.1
+      dbName: first
+    db2:
+      ip: 192.168.1.2
+      dbName: second
